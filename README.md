@@ -7,8 +7,7 @@ For One-Shot Learning, this is a simple implementation of Binary Crossentropy Lo
 
 For Research paper 
 
-[click here]('https://www.cs.cmu.edu/~rsalakhu/papers/oneshot1.pdf')
-(click here)['https://www.cs.cmu.edu/~rsalakhu/papers/oneshot1.pdf']
+[click here]['https://www.cs.cmu.edu/~rsalakhu/papers/oneshot1.pdf']
 ## Dataset
 
 From Google, 42 photos of three people (14 images each)
