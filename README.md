@@ -5,7 +5,7 @@ For One-Shot Learning, this is a simple implementation of Binary Crossentropy Lo
 
 ![Model](https://blog.kakaocdn.net/dn/cf0nBf/btqJEyzoNcJ/J5t800v3i2zB49FqGUegL1/img.png)
 
-For Research paper [click here]('https://www.cs.cmu.edu/~rsalakhu/papers/oneshot1.pdf') 
+For Research paper [[click here]('https://www.cs.cmu.edu/~rsalakhu/papers/oneshot1.pdf')] 
 ## Dataset
 
 From Google, 42 photos of three people (14 images each)
